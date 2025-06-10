@@ -1,0 +1,222 @@
+[
+  {
+    "cliente_id": "C1030",
+    "nome_cliente": "Eduardo Lima",
+    "produto": {
+      "categoria": "Eletrônicos",
+      "nome": "Tablet",
+      "preco": 1299.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-03T10:20:00Z")
+  },
+  {
+    "cliente_id": "C1028",
+    "nome_cliente": "Vanessa Alves",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Camiseta Básica",
+      "preco": 39.90
+    },
+    "quantidade": 5,
+    "data_venda": ISODate("2025-03-03T14:10:00Z")
+  },
+  {
+    "cliente_id": "C1029",
+    "nome_cliente": "Luciana Mendes",
+    "produto": {
+      "categoria": "Cozinha",
+      "nome": "Forno Elétrico",
+      "preco": 499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-04T09:30:00Z")
+  },
+  {
+    "cliente_id": "C1030",
+    "nome_cliente": "Eduardo Lima",
+    "produto": {
+      "categoria": "Esportes",
+      "nome": "Bicicleta Dobrável",
+      "preco": 1499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-04T16:45:00Z")
+  },
+  {
+    "cliente_id": "C1028",
+    "nome_cliente": "Vanessa Alves",
+    "produto": {
+      "categoria": "Decoração",
+      "nome": "Abajur Moderno",
+      "preco": 129.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-03-05T11:00:00Z")
+  },
+  {
+    "cliente_id": "C1029",
+    "nome_cliente": "Luciana Mendes",
+    "produto": {
+      "categoria": "Livros",
+      "nome": "O Pequeno Príncipe",
+      "preco": 45.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-03-05T15:20:00Z")
+  },
+  {
+    "cliente_id": "C1031",
+    "nome_cliente": "Felipe Cardoso",
+    "produto": {
+      "categoria": "Automotivo",
+      "nome": "Pneu Padrão",
+      "preco": 349.90
+    },
+    "quantidade": 4,
+    "data_venda": ISODate("2025-03-06T08:55:00Z")
+  },
+  {
+    "cliente_id": "C1032",
+    "nome_cliente": "Caroline Dias",
+    "produto": {
+      "categoria": "Beleza",
+      "nome": "Maquiagem Completa",
+      "preco": 199.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-06T13:15:00Z")
+  },
+  {
+    "cliente_id": "C1030",
+    "nome_cliente": "Eduardo Lima",
+    "produto": {
+      "categoria": "Games",
+      "nome": "Controle PS5 DualShock",
+      "preco": 399.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-03-07T10:30:00Z")
+  },
+  {
+    "cliente_id": "C1028",
+    "nome_cliente": "Vanessa Alves",
+    "produto": {
+      "categoria": "Pets",
+      "nome": "Coleira para Cachorro",
+      "preco": 29.90
+    },
+    "quantidade": 4,
+    "data_venda": ISODate("2025-03-07T16:00:00Z")
+  },
+  {
+    "cliente_id": "C1031",
+    "nome_cliente": "Felipe Cardoso",
+    "produto": {
+      "categoria": "Informática",
+      "nome": "Placa de Vídeo",
+      "preco": 2499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-08T09:45:00Z")
+  },
+  {
+    "cliente_id": "C1032",
+    "nome_cliente": "Caroline Dias",
+    "produto": {
+      "categoria": "Móveis",
+      "nome": "Cama Box Casal",
+      "preco": 1299.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-08T14:30:00Z")
+  },
+  {
+    "cliente_id": "C1029",
+    "nome_cliente": "Luciana Mendes",
+    "produto": {
+      "categoria": "Alimentos",
+      "nome": "Óleo de Soja",
+      "preco": 12.90
+    },
+    "quantidade": 6,
+    "data_venda": ISODate("2025-03-09T11:10:00Z")
+  },
+  {
+    "cliente_id": "C1030",
+    "nome_cliente": "Eduardo Lima",
+    "produto": {
+      "categoria": "Higiene",
+      "nome": "Pasta de Dente",
+      "preco": 9.90
+    },
+    "quantidade": 5,
+    "data_venda": ISODate("2025-03-09T15:40:00Z")
+  },
+  {
+    "cliente_id": "C1031",
+    "nome_cliente": "Felipe Cardoso",
+    "produto": {
+      "categoria": "Limpeza",
+      "nome": "Desinfetante",
+      "preco": 7.50
+    },
+    "quantidade": 8,
+    "data_venda": ISODate("2025-03-10T08:25:00Z")
+  },
+  {
+    "cliente_id": "C1032",
+    "nome_cliente": "Caroline Dias",
+    "produto": {
+      "categoria": "Brinquedos",
+      "nome": "Carrinho de Controle Remoto",
+      "preco": 149.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-03-10T12:50:00Z")
+  },
+  {
+    "cliente_id": "C1028",
+    "nome_cliente": "Vanessa Alves",
+    "produto": {
+      "categoria": "Saúde",
+      "nome": "Medidor de Pressão",
+      "preco": 199.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-11T10:15:00Z")
+  },
+  {
+    "cliente_id": "C1029",
+    "nome_cliente": "Luciana Mendes",
+    "produto": {
+      "categoria": "Esportes",
+      "nome": "Prancha de Surfe",
+      "preco": 899.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-03-11T16:30:00Z")
+  },
+  {
+    "cliente_id": "C1031",
+    "nome_cliente": "Felipe Cardoso",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Calça Moletom",
+      "preco": 119.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-03-12T09:20:00Z")
+  },
+  {
+    "cliente_id": "C1032",
+    "nome_cliente": "Caroline Dias",
+    "produto": {
+      "categoria": "Decoração",
+      "nome": "Tapete Decorativo",
+      "preco": 179.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-03-12T14:45:00Z")
+  }
+]

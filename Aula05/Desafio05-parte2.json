@@ -1,0 +1,222 @@
+[
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Alimentos",
+      "nome": "Arroz 5kg",
+      "preco": 22.50
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-02-26T08:45:00Z")
+  },
+  {
+    "cliente_id": "C1027",
+    "nome_cliente": "Camila Fernandes",
+    "produto": {
+      "categoria": "Eletrônicos",
+      "nome": "Smart TV 55\"",
+      "preco": 3499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-02-26T10:30:00Z")
+  },
+  {
+    "cliente_id": "C1026",
+    "nome_cliente": "Renata Souza",
+    "produto": {
+      "categoria": "Móveis",
+      "nome": "Cadeira de Escritório",
+      "preco": 329.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-02-26T14:15:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Higiene",
+      "nome": "Papel Higiênico",
+      "preco": 6.90
+    },
+    "quantidade": 10,
+    "data_venda": ISODate("2025-02-27T09:10:00Z")
+  },
+  {
+    "cliente_id": "C1026",
+    "nome_cliente": "Renata Souza",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Blusa Feminina",
+      "preco": 89.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-02-27T11:45:00Z")
+  },
+  {
+    "cliente_id": "C1027",
+    "nome_cliente": "Camila Fernandes",
+    "produto": {
+      "categoria": "Eletrodomésticos",
+      "nome": "Microondas",
+      "preco": 699.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-02-27T15:30:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Bebidas",
+      "nome": "Refrigerante 2L",
+      "preco": 8.90
+    },
+    "quantidade": 6,
+    "data_venda": ISODate("2025-02-28T08:20:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Limpeza",
+      "nome": "Detergente",
+      "preco": 3.50
+    },
+    "quantidade": 8,
+    "data_venda": ISODate("2025-02-28T10:15:00Z")
+  },
+  {
+    "cliente_id": "C1027",
+    "nome_cliente": "Camila Fernandes",
+    "produto": {
+      "categoria": "Informática",
+      "nome": "SSD Externo 1TB",
+      "preco": 499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-02-28T14:00:00Z")
+  },
+  {
+    "cliente_id": "C1026",
+    "nome_cliente": "Renata Souza",
+    "produto": {
+      "categoria": "Esportes",
+      "nome": "Bicicleta Aro 26",
+      "preco": 899.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-02-29T09:30:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Pets",
+      "nome": "Brinquedo para Cachorro",
+      "preco": 24.90
+    },
+    "quantidade": 4,
+    "data_venda": ISODate("2025-02-29T12:45:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Alimentos",
+      "nome": "Feijão 1kg",
+      "preco": 9.90
+    },
+    "quantidade": 5,
+    "data_venda": ISODate("2025-02-30T08:50:00Z")
+  },
+  {
+    "cliente_id": "C1026",
+    "nome_cliente": "Renata Souza",
+    "produto": {
+      "categoria": "Decoração",
+      "nome": "Vaso de Cerâmica",
+      "preco": 79.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-02-30T10:20:00Z")
+  },
+  {
+    "cliente_id": "C1027",
+    "nome_cliente": "Camila Fernandes",
+    "produto": {
+      "categoria": "Beleza",
+      "nome": "Perfume Importado",
+      "preco": 899.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-02-30T16:00:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Higiene",
+      "nome": "Sabonete",
+      "preco": 4.50
+    },
+    "quantidade": 10,
+    "data_venda": ISODate("2024-12-01T09:15:00Z")
+  },
+  {
+    "cliente_id": "C1026",
+    "nome_cliente": "Renata Souza",
+    "produto": {
+      "categoria": "Cozinha",
+      "nome": "Liquidificador",
+      "preco": 249.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2024-12-01T11:30:00Z")
+  },
+  {
+    "cliente_id": "C1027",
+    "nome_cliente": "Camila Fernandes",
+    "produto": {
+      "categoria": "Games",
+      "nome": "Console Nintendo Switch",
+      "preco": 2399.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2024-12-01T15:45:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Limpeza",
+      "nome": "Água Sanitária",
+      "preco": 5.90
+    },
+    "quantidade": 6,
+    "data_venda": ISODate("2024-12-02T08:40:00Z")
+  },
+  {
+    "cliente_id": "C1026",
+    "nome_cliente": "Renata Souza",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Jaqueta Masculina",
+      "preco": 199.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2024-12-02T12:10:00Z")
+  },
+  {
+    "cliente_id": "C1025",
+    "nome_cliente": "Marcos Oliveira",
+    "produto": {
+      "categoria": "Bebidas",
+      "nome": "Água Mineral",
+      "preco": 2.50
+    },
+    "quantidade": 12,
+    "data_venda": ISODate("2024-12-02T16:20:00Z")
+  }
+]

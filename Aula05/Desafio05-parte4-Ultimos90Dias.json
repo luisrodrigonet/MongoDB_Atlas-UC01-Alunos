@@ -1,0 +1,222 @@
+[
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Alimentos",
+      "nome": "Arroz 1kg",
+      "preco": 8.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-04-05T08:45:00Z")
+  },
+  {
+    "cliente_id": "C1037",
+    "nome_cliente": "Beatriz Almeida",
+    "produto": {
+      "categoria": "Eletrônicos",
+      "nome": "Smartphone Topo de Linha",
+      "preco": 4999.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-04-06T11:30:00Z")
+  },
+  {
+    "cliente_id": "C1036",
+    "nome_cliente": "Gustavo Henrique",
+    "produto": {
+      "categoria": "Móveis",
+      "nome": "Sofá Retrátil",
+      "preco": 2499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-04-07T14:15:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Higiene",
+      "nome": "Papel Higiênico",
+      "preco": 6.90
+    },
+    "quantidade": 12,
+    "data_venda": ISODate("2025-04-10T09:20:00Z")
+  },
+  {
+    "cliente_id": "C1036",
+    "nome_cliente": "Gustavo Henrique",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Camisa Social",
+      "preco": 129.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-04-12T10:45:00Z")
+  },
+  {
+    "cliente_id": "C1037",
+    "nome_cliente": "Beatriz Almeida",
+    "produto": {
+      "categoria": "Eletrodomésticos",
+      "nome": "Lava-Louças",
+      "preco": 3499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-04-15T15:30:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Bebidas",
+      "nome": "Água Mineral",
+      "preco": 2.50
+    },
+    "quantidade": 10,
+    "data_venda": ISODate("2025-04-18T08:10:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Limpeza",
+      "nome": "Detergente",
+      "preco": 3.50
+    },
+    "quantidade": 8,
+    "data_venda": ISODate("2025-04-20T10:15:00Z")
+  },
+  {
+    "cliente_id": "C1037",
+    "nome_cliente": "Beatriz Almeida",
+    "produto": {
+      "categoria": "Informática",
+      "nome": "Notebook Gamer",
+      "preco": 6999.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-04-22T14:00:00Z")
+  },
+  {
+    "cliente_id": "C1036",
+    "nome_cliente": "Gustavo Henrique",
+    "produto": {
+      "categoria": "Esportes",
+      "nome": "Prancha de Stand Up",
+      "preco": 899.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-04-25T09:30:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Pets",
+      "nome": "Ração para Gato",
+      "preco": 44.90
+    },
+    "quantidade": 4,
+    "data_venda": ISODate("2025-05-01T12:45:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Alimentos",
+      "nome": "Feijão 1kg",
+      "preco": 9.90
+    },
+    "quantidade": 5,
+    "data_venda": ISODate("2025-05-05T08:50:00Z")
+  },
+  {
+    "cliente_id": "C1036",
+    "nome_cliente": "Gustavo Henrique",
+    "produto": {
+      "categoria": "Decoração",
+      "nome": "Quadro Moderno",
+      "preco": 149.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-05-08T10:20:00Z")
+  },
+  {
+    "cliente_id": "C1037",
+    "nome_cliente": "Beatriz Almeida",
+    "produto": {
+      "categoria": "Beleza",
+      "nome": "Perfume Importado",
+      "preco": 1299.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-05-10T16:00:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Higiene",
+      "nome": "Sabonete",
+      "preco": 4.50
+    },
+    "quantidade": 10,
+    "data_venda": ISODate("2025-05-15T09:15:00Z")
+  },
+  {
+    "cliente_id": "C1036",
+    "nome_cliente": "Gustavo Henrique",
+    "produto": {
+      "categoria": "Cozinha",
+      "nome": "Fogão 4 Bocas",
+      "preco": 1199.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-05-20T11:30:00Z")
+  },
+  {
+    "cliente_id": "C1037",
+    "nome_cliente": "Beatriz Almeida",
+    "produto": {
+      "categoria": "Games",
+      "nome": "Console PlayStation 5",
+      "preco": 4499.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-05-25T15:45:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Limpeza",
+      "nome": "Água Sanitária",
+      "preco": 5.90
+    },
+    "quantidade": 6,
+    "data_venda": ISODate("2025-06-01T08:40:00Z")
+  },
+  {
+    "cliente_id": "C1036",
+    "nome_cliente": "Gustavo Henrique",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Casaco de Inverno",
+      "preco": 249.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-06-05T12:10:00Z")
+  },
+  {
+    "cliente_id": "C1035",
+    "nome_cliente": "André Luís",
+    "produto": {
+      "categoria": "Bebidas",
+      "nome": "Refrigerante 2L",
+      "preco": 8.90
+    },
+    "quantidade": 6,
+    "data_venda": ISODate("2025-06-10T16:20:00Z")
+  }
+]

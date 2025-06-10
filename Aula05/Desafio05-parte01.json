@@ -1,0 +1,221 @@
+
+  {
+    "cliente_id": "C1002",
+    "nome_cliente": "Maria Oliveira",
+    "produto": {
+      "categoria": "Eletrônicos",
+      "nome": "Notebook",
+      "preco": 4500.00
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-16T10:15:00Z")
+  },
+  {
+    "cliente_id": "C1003",
+    "nome_cliente": "Carlos Pereira",
+    "produto": {
+      "categoria": "Livros",
+      "nome": "A Arte da Guerra",
+      "preco": 49.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-01-16T14:20:00Z")
+  },
+  {
+    "cliente_id": "C1004",
+    "nome_cliente": "Ana Souza",
+    "produto": {
+      "categoria": "Móveis",
+      "nome": "Sofá 3 lugares",
+      "preco": 1800.00
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-17T09:00:00Z")
+  },
+  {
+    "cliente_id": "C1005",
+    "nome_cliente": "Lucas Mendes",
+    "produto": {
+      "categoria": "Esportes",
+      "nome": "Bola de Futebol",
+      "preco": 89.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-17T15:45:00Z")
+  },
+  {
+    "cliente_id": "C1006",
+    "nome_cliente": "Fernanda Costa",
+    "produto": {
+      "categoria": "Eletrodomésticos",
+      "nome": "Geladeira",
+      "preco": 2999.00
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-18T11:30:00Z")
+  },
+  {
+    "cliente_id": "C1007",
+    "nome_cliente": "Pedro Almeida",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Camisa Social",
+      "preco": 129.90
+    },
+    "quantidade": 4,
+    "data_venda": ISODate("2025-01-18T16:10:00Z")
+  },
+  {
+    "cliente_id": "C1008",
+    "nome_cliente": "Juliana Lima",
+    "produto": {
+      "categoria": "Brinquedos",
+      "nome": "Boneca Barbie",
+      "preco": 99.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-19T08:50:00Z")
+  },
+  {
+    "cliente_id": "C1009",
+    "nome_cliente": "Rodrigo Santos",
+    "produto": {
+      "categoria": "Informática",
+      "nome": "Mouse sem fio",
+      "preco": 69.90
+    },
+    "quantidade": 5,
+    "data_venda": ISODate("2025-01-19T13:20:00Z")
+  },
+  {
+    "cliente_id": "C1010",
+    "nome_cliente": "Aline Ferreira",
+    "produto": {
+      "categoria": "Beleza",
+      "nome": "Shampoo",
+      "preco": 34.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-01-20T09:40:00Z")
+  },
+  {
+    "cliente_id": "C1011",
+    "nome_cliente": "Bruno Martins",
+    "produto": {
+      "categoria": "Games",
+      "nome": "Jogo para PS5",
+      "preco": 249.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-20T17:00:00Z")
+  },
+  {
+    "cliente_id": "C1012",
+    "nome_cliente": "Carla Dias",
+    "produto": {
+      "categoria": "Cozinha",
+      "nome": "Panela de Pressão",
+      "preco": 149.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-21T10:25:00Z")
+  },
+  {
+    "cliente_id": "C1013",
+    "nome_cliente": "Diego Rocha",
+    "produto": {
+      "categoria": "Saúde",
+      "nome": "Termômetro Digital",
+      "preco": 79.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-21T14:15:00Z")
+  },
+  {
+    "cliente_id": "C1014",
+    "nome_cliente": "Mariana Ribeiro",
+    "produto": {
+      "categoria": "Pets",
+      "nome": "Ração para Cães",
+      "preco": 89.90
+    },
+    "quantidade": 4,
+    "data_venda": ISODate("2025-01-22T08:30:00Z")
+  },
+  {
+    "cliente_id": "C1015",
+    "nome_cliente": "Thiago Nunes",
+    "produto": {
+      "categoria": "Automotivo",
+      "nome": "Óleo de Motor",
+      "preco": 59.90
+    },
+    "quantidade": 3,
+    "data_venda": ISODate("2025-01-22T12:45:00Z")
+  },
+  {
+    "cliente_id": "C1016",
+    "nome_cliente": "Lívia Barros",
+    "produto": {
+      "categoria": "Decoração",
+      "nome": "Quadro Decorativo",
+      "preco": 129.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-23T10:10:00Z")
+  },
+  {
+    "cliente_id": "C1017",
+    "nome_cliente": "Guilherme Freitas",
+    "produto": {
+      "categoria": "Eletrônicos",
+      "nome": "Fone Bluetooth",
+      "preco": 199.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-23T16:00:00Z")
+  },
+  {
+    "cliente_id": "C1018",
+    "nome_cliente": "Isabela Machado",
+    "produto": {
+      "categoria": "Livros",
+      "nome": "Dom Casmurro",
+      "preco": 39.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-24T09:20:00Z")
+  },
+  {
+    "cliente_id": "C1019",
+    "nome_cliente": "Rafael Teixeira",
+    "produto": {
+      "categoria": "Esportes",
+      "nome": "Tênis de Corrida",
+      "preco": 299.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-24T14:30:00Z")
+  },
+  {
+    "cliente_id": "C1020",
+    "nome_cliente": "Patrícia Reis",
+    "produto": {
+      "categoria": "Roupas",
+      "nome": "Calça Jeans",
+      "preco": 149.90
+    },
+    "quantidade": 2,
+    "data_venda": ISODate("2025-01-25T11:15:00Z")
+  },
+  {
+    "cliente_id": "C1021",
+    "nome_cliente": "Victor Hugo",
+    "produto": {
+      "categoria": "Informática",
+      "nome": "Teclado Mecânico",
+      "preco": 249.90
+    },
+    "quantidade": 1,
+    "data_venda": ISODate("2025-01-25T17:20:00Z")
+  }
