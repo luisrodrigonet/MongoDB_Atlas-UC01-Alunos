@@ -1,0 +1,11 @@
+MongoDB Shell Download
+- https://downloads.mongodb.com/compass/mongosh-2.5.2-win32-x64.zip
+
+
+MongoDB Compass Download (GUI)
+https://downloads.mongodb.com/compass/mongodb-compass-1.46.3-win32-x64.exe
+
+
+
+MongoDB Command Line Database Tools Download
+- https://fastdl.mongodb.org/tools/db/mongodb-database-tools-windows-x86_64-100.12.2.zip
